@@ -1,3 +1,3 @@
 # commet perfecto
-nombre = "Israel"
+nombre = "lantigua"
 print(nombre)
