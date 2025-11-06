@@ -1,2 +1,3 @@
 # commet perfecto
-print("Hola Mundo")
+nombre = "Israel"
+print(nombre)
